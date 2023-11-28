@@ -1,8 +1,10 @@
-<h1 align="center"> Hi there 👋, I'm Aditya Gurnani</h1>
-<h4 align="center"> I am a Graduate student in the Computer Science program at Northeastern University, Boston. Presently, I am working as a Research Assistant at the Connection Lab, Northeastern University. With a strong background in computer engineering, I have honed my skills in databases, microservices, machine learning, and data analytics. I am passionate about AI research and software development, and I possess a mix of skills in web and mobile development, data science, and cloud computing. Known for my analytical approach and problem-solving skills, I am driven by the desire to apply technology for impactful solutions. </h4>
+<h1 align="center">Hi there 👋, I'm Aditya Gurnani</h1>
+<h4 align="center">As a driven and talented Graduate student in Computer Science at Northeastern University, Boston, I'm deeply immersed in the world of technology and innovation. Currently enhancing my skills as a Research Assistant at the Connection Lab, I bring a wealth of knowledge from my undergraduate studies in Computer Engineering at the University of Mumbai, India. My academic journey is marked by a strong foundation in algorithms, machine learning, database management systems, and programming design paradigms.</h4>
 
-<h4 align="center"> 🌍 Boston, MA, USA <br />
-✉️ Contact me at gurnani.ad@northeastern.edu </h4>
+<h4 align="center">My professional narrative includes impactful roles such as a Software Engineer Intern at Capgemini and a Data Scientist Intern at LeadingIndia.ai, where I have demonstrated my prowess in various aspects of technology. I am particularly passionate about harnessing the power of AI and machine learning to develop cutting-edge solutions that make a difference. With a keen eye for detail and a relentless pursuit of excellence, I am adept at diving deep into data, unraveling complex patterns, and building robust, scalable software solutions.</h4>
+
+<h4 align="center">🌍 Boston, MA, USA <br />
+✉️ Reach out to me at gurnani.ad@northeastern.edu</h4>
 
 ### Connect with me
 
